@@ -1,0 +1,7 @@
+blind xss can be often found on contact form
+
+
+use xsshunter for it.
+
+url: https://xsshunter.com/
+
